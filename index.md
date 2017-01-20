@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Marty's Getting Started
 quote: The essential part of creativity is not being afraid to fail.
 cite: Edwin H. Land
 ---
