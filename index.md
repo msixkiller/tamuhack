@@ -35,3 +35,5 @@ Continue on to the [Resources]({{ "/resources" | prepend: site.baseurl }})
 section to learn more about GitHub Pages and other handy tools.
 
 If you have questions, please look for me at the hackathon. I am here to help!
+
+<img src="http://vignette3.wikia.nocookie.net/smurfs/images/b/bd/Papa_Smurf123.png/revision/latest?cb=20130805130238">
